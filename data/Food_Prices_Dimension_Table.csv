@@ -1,0 +1,91 @@
+EFPG_code,EFPG_name,Tier 1 group,Tier 2 group
+10000,Whole-grain breads,Grains,"Whole-grain breads, cereal, rice, pasta, and flours"
+10025,Whole-grain rice and pasta,Grains,"Whole-grain breads, cereal, rice, pasta, and flours"
+10050,Whole-grain breakfast grains,Grains,"Whole-grain breads, cereal, rice, pasta, and flours"
+10075,"Whole-grain flour, bread mixes, and frozen dough",Grains,"Whole-grain breads, cereal, rice, pasta, and flours"
+15000,Non-whole-grain breads,Grains,"Non-whole-grain breads, cereal, rice, pasta, and flours"
+15025,Non-whole-grain rice and pasta,Grains,"Non-whole-grain breads, cereal, rice, pasta, and flours"
+15050,Non-whole-grain breakfast grains,Grains,"Non-whole-grain breads, cereal, rice, pasta, and flours"
+15075,"Non-whole-grain flour, bread mixes, and frozen dough",Grains,"Non-whole-grain breads, cereal, rice, pasta, and flours"
+20000,"Potatoes, fresh",Vegetables,Potatoes
+20075,"Potatoes, canned",Vegetables,Potatoes
+21500,"Other starchy vegetables, fresh",Vegetables,Other starchy vegetables
+21525,"Other starchy vegetables, fresh cut",Vegetables,Other starchy vegetables
+21550,"Other starchy vegetables, frozen",Vegetables,Other starchy vegetables
+21575,"Other starchy vegetables, canned",Vegetables,Other starchy vegetables
+23000,"Tomatoes, fresh",Vegetables,Tomatoes
+23075,"Tomatoes, canned",Vegetables,Tomatoes
+24500,"Other red and orange vegetables, fresh",Vegetables,Other red and orange vegetables
+24525,"Other red and orange vegetables, fresh cut",Vegetables,Other red and orange vegetables
+24550,"Other red and orange vegetables, frozen",Vegetables,Other red and orange vegetables
+24575,"Other red and orange vegetables, canned",Vegetables,Other red and orange vegetables
+26000,"Dark green vegetables, fresh",Vegetables,Dark green
+26525,"Dark green vegetables, fresh cut",Vegetables,Dark green
+26550,"Dark green vegetables, frozen",Vegetables,Dark green
+26575,"Dark green vegetables, canned",Vegetables,Dark green
+27500,"Beans, lentils, and peas, fresh/dried",Vegetables,"Beans, lentils, peas, and legumes"
+27550,"Beans, lentils, and peas, frozen",Vegetables,"Beans, lentils, peas, and legumes"
+27575,"Beans, lentils, and peas, canned",Vegetables,"Beans, lentils, peas, and legumes"
+29000,"Other/mixed vegetables, fresh",Vegetables,Other/mixed vegetables
+29025,"Other/mixed vegetables, fresh cut",Vegetables,Other/mixed vegetables
+29050,"Other/mixed vegetables, frozen",Vegetables,Other/mixed vegetables
+29075,"Other/mixed vegetables, canned",Vegetables,Other/mixed vegetables
+30000,"Whole fruit, fresh",Fruit,Whole fruit
+30025,"Whole fruit, fresh cut",Fruit,Whole fruit
+30050,"Whole fruit, frozen",Fruit,Whole fruit
+30075,"Whole fruit, canned",Fruit,Whole fruit
+30090,"Whole fruit, dried",Fruit,Whole fruit
+35000,"100-percent fruit and vegetable juices, fresh",Fruit,100% fruit and vegetable juices
+35050,"100-percent fruit and vegetable juices, frozen",Fruit,100% fruit and vegetable juices
+35075,"100-percent fruit and vegetable juices, canned and shelf-stable",Fruit,100% fruit and vegetable juices
+40000,Whole milk,Dairy,"Whole milk, yogurt, and cream"
+40030,Whole cream and sour cream,Dairy,"Whole milk, yogurt, and cream"
+40060,Whole yogurt,Dairy,"Whole milk, yogurt, and cream"
+43000,"Reduced-fat, low-fat, and skim milk",Dairy,"Reduced-fat, low-fat, and skim milk, cream, and yogurt"
+43030,"Reduced-fat, low-fat, and skim cream and sour cream",Dairy,"Reduced-fat, low-fat, and skim milk, cream, and yogurt"
+43060,"Reduced-fat, low-fat, and skim yogurt",Dairy,"Reduced-fat, low-fat, and skim milk, cream, and yogurt"
+46000,Cheese and cream cheese,Dairy,Cheese
+46050,Processed cheese,Dairy,Cheese
+50000,"Beef, pork, lamb, veal and game, fresh",Meat and Protein Foods,"Beef, pork, lamb, veal and game"
+50050,"Beef, pork, lamb, veal and game, frozen",Meat and Protein Foods,"Beef, pork, lamb, veal and game"
+50075,"Beef, pork, lamb, veal and game, canned",Meat and Protein Foods,"Beef, pork, lamb, veal and game"
+51500,"Chicken, turkey, and game birds, fresh",Meat and Protein Foods,"Chicken, turkey, and game birds"
+51550,"Chicken, turkey, and game birds, frozen",Meat and Protein Foods,"Chicken, turkey, and game birds"
+51575,"Chicken, turkey, and game birds, canned",Meat and Protein Foods,"Chicken, turkey, and game birds"
+53000,"Fish and seafood, fresh",Meat and Protein Foods,Fish and seafood
+53050,"Fish and seafood, frozen",Meat and Protein Foods,Fish and seafood
+53075,"Fish and seafood, canned",Meat and Protein Foods,Fish and seafood
+54500,Nuts and seeds,Meat and Protein Foods,"Nuts, nut butters, and seeds"
+54550,Nut and seed butters and spreads,Meat and Protein Foods,"Nuts, nut butters, and seeds"
+54550,"Bacon, sausage, and lunch meats",Meat and Protein Foods,"Bacon, sausage, and lunch meats"
+57500,Egg and egg substitutes,Meat and Protein Foods,Egg and egg substitutes
+59000,Tofu and meat substitutes,Meat and Protein Foods,Tofu and meat substitutes
+60000,Ready-to-eat foods,"Prepared meals, sides, and salads",Ready-to-eat foods
+62500,Frozen and refrigerated ready-to-heat foods,"Prepared meals, sides, and salads",Frozen/refrigerated ready-to-heat foods
+65000,"Shelf-stable, ready-to-heat foods and soups","Prepared meals, sides, and salads",Shelf-stable ready-to-heat foods and soups
+67500,Shelf-stable meal kits,"Prepared meals, sides, and salads",Shelf-stable meal kits
+70000,Fats and oils,Other foods,"Fats, oils, and salad dressings"
+70050,Salad dressing,Other foods,"Fats, oils, and salad dressings"
+71000,"Condiments, gravies, and sauces",Other foods,"Gravies, sauces, condiments, and spices"
+71050,Dry spices,Other foods,"Gravies, sauces, condiments, and spices"
+72000,Sweetened coffee and tea,Other foods,Beverages
+72010,Unsweetened coffee and tea,Other foods,Beverages
+72020,Flavored milk and other sweetened milk-based beverages,Other foods,Beverages
+72030,Low-calorie beverages,Other foods,Beverages
+72040,All other caloric beverages,Other foods,Beverages
+72050,Alcohol,Other foods,Beverages
+72060,Water,Other foods,Beverages
+73000,Sweeteners,Other foods,"Desserts, sweets, and candies"
+73010,Jellies and jams,Other foods,"Desserts, sweets, and candies"
+73020,Candy,Other foods,"Desserts, sweets, and candies"
+73030,Baked goods,Other foods,"Desserts, sweets, and candies"
+73040,Cake and cookie mixes,Other foods,"Desserts, sweets, and candies"
+73050,Ice cream and other milk-based desserts,Other foods,"Desserts, sweets, and candies"
+73060,All other desserts,Other foods,"Desserts, sweets, and candies"
+74000,Whole-grain breakfast cereal,Other foods,Breakfast cereals
+74050,All other breakfast cereal,Other foods,Breakfast cereals
+75000,"Savory snacks, whole-grain snacks",Other foods,Savory snacks
+75050,"Savory snacks, all other snacks",Other foods,Savory snacks
+76000,Vitamins and meal supplements,Other foods,Vitamins and meal supplements
+77000,Baby food,Other foods,Baby food
+78000,Infant formula,Other foods,Infant formula
